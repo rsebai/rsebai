@@ -1,8 +1,8 @@
 
 #### Hi there, I'm Rajae 👋
+  As an AI enthusiast, I am deeply passionate about AI that is designed to positively impact humanity while safeguarding our natural environment. I am especially interested in the Medical Imaging field ⚕️ and I developed a taste for protein ontology with Graphs & NLP. When I'm not reading 📚, I enjoy taking photos 📸.
 - :woman_student: Graduated Engineer in Computer Science and Applied Mathematics - Option Image & Multimedia @ [Toulouse INP - ENSEEIHT](https://www.enseeiht.fr/fr/index.html)
-- 💻: MVA MSc student ["Mathématiques (Mathematics), Vision (Vision), Apprentissage (Learning)"](https://www.master-mva.com/) @ [ENS-Paris-Saclay](https://ens-paris-saclay.fr/). 
-- I am passionate about Artificial Intelligence that is designed to help humans and preserve nature. I am especially interested in the Medical Imaging field ⚕️ and I developed a taste for protein ontology with Graphs & NLP. When I'm not reading 📚, I enjoy taking photos 📸. 
+- 💻: MVA MSc student ["Mathématiques (Mathematics), Vision (Vision), Apprentissage (Learning)"](https://www.master-mva.com/) @ [ENS-Paris-Saclay](https://ens-paris-saclay.fr/).  
 - 📫 Reach me on  [![Linkedin Badge](https://img.shields.io/badge/-rajae_sebai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajae-sebai/)](https://www.linkedin.com/in/rajae-sebai/)
 
  
