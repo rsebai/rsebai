@@ -14,8 +14,8 @@
 Ranked 70/3500 at the Concours National Commun in Morocco).
 
 ### Internships
-- (current) ⚕️ - [GE HealthCare](https://www.gehealthcare.fr/) : Deep Learning Multi-tasking on Mammographs Images for image restoration. 
-  - `Multitasking architectures` `denoising` `deblurring` `pytorch` 
+- (current) ⚕️ - [GE HealthCare](https://www.gehealthcare.fr/) : Multi-task Learning on Mammographs Images for image restoration. 
+  - `Multi-task Learning` `denoising` `deblurring` `pytorch` 
 - 🏗️ [SGR Paris](https://www.sgr-paris.saint-gobain.com/) : Pattern recognition in multivariate time series.
   - `Building science` `Physics ML` `tslearn`
 - ♻️ [TéSA Laboratory](https://www.tesa.prd.fr/) : Object classification and detection for Paprec Group, a French leader in recycling solutions. Method based on image descriptors (HOG and DPM) and Support Vector Machines (SVM).
