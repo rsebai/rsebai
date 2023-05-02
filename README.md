@@ -39,4 +39,4 @@ Ranked 70/3500 at the Concours National Commun in Morocco).
   - `Distillation` `Consistency loss` `Teacher-Student` `Advanced data augmentation` `Dataset Annotation`
   
 - [3D reconstruction with Shape-from-Silhouette]()
-  - `Matlab`
+  - `Matlab` `Blender`
