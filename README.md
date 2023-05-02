@@ -36,7 +36,7 @@ Ranked 70/3500 at the Concours National Commun in Morocco).
   -  `Computer Vision` `Transfer Learning` `Vision Transformers` `Pytorch` `HuggingFace`
 
 - [Image detection with semi-supervised Learning]()
-  - `Distillation` `Consistency loss` `Teacher-Student` `Advanced data augmentation` `Dataset Annotation`
+  - `Distillation` `Consistency loss` `Teacher-Student` `Advanced data augmentation` `Dataset Annotation` `LabelImg`
   
 - [3D reconstruction with Shape-from-Silhouette]()
   - `Matlab` `Blender`
