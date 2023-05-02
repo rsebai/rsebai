@@ -19,7 +19,7 @@ Ranked 70/3500 at the Concours National Commun in Morocco).
 - 🏗️ [SGR Paris](https://www.sgr-paris.saint-gobain.com/) : Pattern recognition in multivariate time series.
   - `Building science` `Physics ML` `tslearn` `Azure` `Git`
 - ♻️ [TéSA Laboratory](https://www.tesa.prd.fr/) : Object classification and detection for Paprec Group, a French leader in recycling solutions. Method based on image descriptors (HOG and DPM) and Support Vector Machines (SVM).
-  - `Image detection` `HOG` `SVM` `YOLO` `scikit-learn`
+  - `Image detection` `HOG` `SVM` `YOLO` `scikit-learn` `skimage` `opencv`
 - 🚝 [SNCF Réseau](https://www.sncf.com/fr/reseau-expertises/reseau-ferroviaire/sncf-reseau) : Improved railway data on Java Application and collaborated in forecasting of daily flows of patients in hospital emergencies over Covid periods.
   - `ARIMA` `R` `Time Series` `JAVA plug-in`
 ### Some projects
