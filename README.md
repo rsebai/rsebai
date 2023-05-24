@@ -23,20 +23,20 @@ Ranked 70/3500 at the Concours National Commun in Morocco).
 - 🚝 [SNCF Réseau](https://www.sncf.com/fr/reseau-expertises/reseau-ferroviaire/sncf-reseau) : Improved railway data on Java Application and collaborated in forecasting of daily flows of patients in hospital emergencies over Covid periods.
   - `ARIMA` `R` `Time Series` `JAVA plug-in`
 ### Some projects
-- [Radiation Dose Prediction for Cancer Patients]()
+- [Radiation Dose Prediction for Cancer Patients](https://github.com/rsebai/radiation_dose_prediction)
   - `U-NET Architecture` `clinical dose` `CT scans` `dilated convolutions` `Pytorch`
 
-- [Cellular Component Ontology Prediction]()
+- [Cellular Component Ontology Prediction](https://github.com/rsebai/protein_classification_altegrad_challenge)
   - `Protein sequence and structure` `Amino-acids classification` `NLP` `Graphs` `Pytorch` `HuggingFace`
   
-- [Clicks removal in audio signals]()
+- [Clicks removal in audio signals](https://github.com/rsebai/clicks_removal_audios_signal)
   - `Signal Processing` `Inpainting` `U-NET Architecture` `Pytorch`
 
-- [Birds Classification with Vision Transformers (ViT)]()
+- [Birds Classification with Vision Transformers (ViT)](https://github.com/rsebai/birds_classification_with_ViT)
   -  `Computer Vision` `Transfer Learning` `Vision Transformers` `Pytorch` `HuggingFace`
 
 - [Image detection with semi-supervised Learning]()
   - `Distillation` `Consistency loss` `Teacher-Student` `Advanced data augmentation` `Dataset Annotation` `LabelImg`
   
-- [3D reconstruction with Shape-from-Silhouette]()
+- [3D reconstruction with Shape-from-Silhouette](https://github.com/rsebai/3D_reconstruction_with_shape-from-silhouette)
   - `Matlab` `Blender`
