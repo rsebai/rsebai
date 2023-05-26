@@ -1,15 +1,14 @@
 
 #### Hi there, I'm Rajae 👋
   As an AI enthusiast, I am deeply passionate about AI that is designed to positively impact humanity while safeguarding our natural environment. I am especially interested in the Medical Imaging field ⚕️ and I developed a taste for protein ontology with Graphs & NLP. When I'm not reading 📚, I enjoy taking photos 📸.
-- :woman_student: Graduated Engineer in Computer Science and Applied Mathematics - Option Image & Multimedia @ [Toulouse INP - ENSEEIHT](https://www.enseeiht.fr/fr/index.html)
-- 💻: MVA MSc student ["Mathématiques (Mathematics), Vision (Vision), Apprentissage (Learning)"](https://www.master-mva.com/) @ [ENS-Paris-Saclay](https://ens-paris-saclay.fr/).  
-- 📫 Reach me on  [![Linkedin Badge](https://img.shields.io/badge/-rajae_sebai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajae-sebai/)](https://www.linkedin.com/in/rajae-sebai/)
+  
+📫 Reach me on  [![Linkedin Badge](https://img.shields.io/badge/-rajae_sebai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajae-sebai/)](https://www.linkedin.com/in/rajae-sebai/)
 
  
 ### Education
 
-- 👩‍: Master [MVA "Mathématiques, Vision, Apprentissage"](https://www.master-mva.com/) @ [ENS-Paris-Saclay](https://ens-paris-saclay.fr/). The MVA Master is one of the most prestigious master degree in the field of machine learning in France.
-- 👩‍🎓: Engineering student in Computer Science and Applied Mathematics - option Image & Multimedia @ [Toulouse INP - ENSEEIHT](https://www.enseeiht.fr/fr/index.html). Did an exchange spring semester at DCU [(Dublin City University)](https://www.dcu.ie/). 
+- 👩‍: MVA MSc student [MVA "Mathématiques, Vision, Apprentissage"](https://www.master-mva.com/) @ [ENS-Paris-Saclay](https://ens-paris-saclay.fr/). The MVA Master is one of the most prestigious master degree in the field of machine learning in France.
+- 👩‍🎓:  Graduated Engineer in Computer Science and Applied Mathematics - option Image & Multimedia @ [Toulouse INP - ENSEEIHT](https://www.enseeiht.fr/fr/index.html). Did an exchange spring semester at DCU [(Dublin City University)](https://www.dcu.ie/). 
 - 👩‍🎓: CPGE student (Advanced Mathematics and Physics courses in preparation for the competitive examination to Moroccan and French “Grandes Ecoles”.
 Ranked 70/3500 at the Concours National Commun in Morocco).
 
